@@ -1,7 +1,7 @@
 # 1. AlgorithmStudy
 Aim to study problem solving examples in [**baekjoon**](https://www.acmicpc.net/) and [**leetcode**](https://leetcode.com/)
 
-## 1.1. Python
+## 1.1 Python
 ```
 [ ] baekjoon
 [ ] leetcode
