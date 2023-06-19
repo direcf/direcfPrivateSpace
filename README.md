@@ -4,13 +4,14 @@ Aim to study problem solving examples in [**baekjoon**](https://www.acmicpc.net/
 
 ## 1.1. Python
 ```
-### [ ] baekjoon
-### [ ] leetcode
+[ ] baekjoon
+[ ] leetcode
 ```
 
 ## 1.2 C++
 ```
-### [ ] leetcode
+[ ] leetcode
 ```
 
 ## 2. Blog
+[**github blog url**](https://direcf.github.io/)
