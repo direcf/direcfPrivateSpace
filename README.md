@@ -1,4 +1,3 @@
-# direcfPrivateSpace
 # 1. AlgorithmStudy
 Aim to study problem solving examples in [**baekjoon**](https://www.acmicpc.net/) and [**leetcode**](https://leetcode.com/)
 
@@ -13,5 +12,5 @@ Aim to study problem solving examples in [**baekjoon**](https://www.acmicpc.net/
 [ ] leetcode
 ```
 
-## 2. Blog
+# 2. Blog
 [**github blog url**](https://direcf.github.io/)
